@@ -1,3 +1,4 @@
+
 .heading{
     font-size: 23px;
     width: 100%;
@@ -7,7 +8,8 @@
 .heading_div{
     padding: 10px;
     background-color: white;
-    color: black;
+    color: green;
+    font-weight: bold;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
     float: none;
